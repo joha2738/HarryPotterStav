@@ -1,4 +1,4 @@
-# HarryPotterStav ONLY MicorBit V2
+# HarryPotterStav ONLY MicroBit V2
 Magic Wand of Harry Potter (MicroBit) AI
 
 Wave the wand from left to right turns off the light (Send 0 on channel 17)
